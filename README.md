@@ -9,7 +9,7 @@
 
 # Методы createElement()
 
-[![Not]Solid](./img/Screenshot_1.png)
+[![N|Solid](./img/Screenshot_1.png)
 
 # Элемент HTML DOM appendChild()
 
